@@ -1,5 +1,7 @@
-# Real_world_data_case
+# Real world data case
 This project contains the solutions for a real world problem regarding dosing strategy for medications in children with organ transplant.
+
+File: main.md
 
 Data have been extracted from EHR regarding the use of tacrolimus in pediatric solid organ transplant recipients. One of the known side effects of tacrolimus is the decline of renal function over time.
 
