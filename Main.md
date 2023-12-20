@@ -1,8 +1,8 @@
 ---
-title: "Radboudumc_case"
+title: "RWD_case"
 author: "Vivi Zhou"
 date: "2023-12-06"
-output: pdf_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
