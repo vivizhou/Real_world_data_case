@@ -1,16 +1,13 @@
 # Real world data case
-This project contains the solutions for a real world problem regarding dosing strategy for medications in children with organ transplant.
-
-File: main.md
+This project contains the solutions for a real world problem regarding dosing strategy for medications in children with organ transplant saved in main.md. 
 
 Data have been extracted from EHR regarding the use of tacrolimus in pediatric solid organ transplant recipients. One of the known side effects of tacrolimus is the decline of renal function over time.
-
 
 ### Problem 1
 
 We have a data set of 500 patients. However, all the data are stored in the old excel file type (.xls). Please write a program to convert these files into (.xlsx) in a batch and execute it as well.
 
-File screenshot:
+Data file screenshot:
 
    [1] "1-10/Admission Tac & meds 1-10.xls"                          
    [2] "1-10/Admissions 1,2,3,4,6,7,10.xls"                          
